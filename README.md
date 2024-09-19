@@ -1,6 +1,6 @@
 # Lab3-for-COMP1238---Intro-to-Data-Management
 Number of row characters
-* ! exclmation
+* ! exclamation
 * @ at
 * \# hastag
 * $ dollar
@@ -14,7 +14,7 @@ Number of row characters
 * [twitter](https://twitter.com/WooPengie)
 * [github](https://github.com/masterbillwoo)
 
-## Experiments
+### Experiments
 
 - :vulcan_salute:
 - :smile:
@@ -45,28 +45,7 @@ Number of row characters
 - :grimacing:
 - :confused:
 - :hushed:
-- :expressionless:`
-- :unamused:`
-- :sweat_smile:`
-- :sweat:`
-- :disappointed_relieved:`
-- :weary:`
-- :pensive:`
-- :disappointed:` 
-- :confounded:` 
-- :fearful:` 
-- :cold_sweat:` 
-- :persevere:` 
-- :cry:` 
-- :sob:` 
-- :joy:` 
-- :astonished:` 
-- :scream:` 
-- :neckbeard:` 
-- ::tired_face:` 
-- ::angry:` 
-- ::rage:` 
-- ::triumph:` 
+
 - ::sleepy:` 
 - ::yum:` 
 - ::mask:` 
